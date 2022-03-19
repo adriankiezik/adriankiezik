@@ -4,7 +4,7 @@ Hello, I am a web developer from Poland, Wrocław. Experienced in Javascript-bas
 
 <div align="center">
 <a href="https://github.com/adriankiezik/portfolio/">
-<img src="https://img.shields.io/badge/Check%20out%20my%20portfolio-060e26?style=for-the-badge&logo=Academia" alt="portfolio" />
+<img src="https://img.shields.io/badge/My%20portfolio-060e26?style=for-the-badge&logo=Academia" alt="portfolio" />
 <a href="https://github.com/adriankiezik/portfolio/">
 <img src="https://img.shields.io/badge/Web%20Dev%20projects-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="web dev" />
 </a>
