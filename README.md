@@ -30,7 +30,6 @@ Hello, I am a web developer from Poland, Wrocław. Experienced in Javascript-bas
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="node.js" />
 <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=Express&logoColor=white" alt="express" />
 <img src="https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=Electron&logoColor=white" alt="electron" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=netlify&logoColor=white" alt="tailwind" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 <img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" alt="webpack" />
@@ -40,4 +39,5 @@ Hello, I am a web developer from Poland, Wrocław. Experienced in Javascript-bas
 <div align="center">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=netlify&logoColor=white" alt="tailwind" />
 </div>
