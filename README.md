@@ -37,3 +37,9 @@ Hello, I am a web developer from Poland, Wrocław. Experienced in Javascript-bas
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js" />
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=netlify&logoColor=white" alt="tailwind" />
 </div>
+
+### The best open source projects
+#### <a href="https://github.com/adriankiezik/react-ecommerce">React E-commerce</a> - Ecommerce website made with React, Redux & node.js backend.
+#### <a href="https://github.com/adriankiezik/online-code-editor">Online Code Editor</a> - Web code editor featuring transpiling & visualising code with ability to bundle npm packages and more! Created with esbuild assembly.
+#### <a href="https://github.com/adriankiezik/adriankiezik.pl">Portfolio Website</a> - Personal web development portfolio website showcasing my skills & projects.
+#### <a href="https://github.com/adriankiezik/next.js-social-network">Next.js Social Network</a> (in development) - Social network website built with Next.js, Typescript and TailwindCSS.
