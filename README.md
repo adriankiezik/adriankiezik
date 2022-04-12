@@ -39,6 +39,7 @@ Hello, I am a web developer from Poland, Wrocław. Experienced in Javascript-bas
 </div>
 
 ### The best open source projects
+All of these projects are not completed yet, because I'm still working on daily basis with them. However I ordered them from most to least completed. 
 #### <a href="https://github.com/adriankiezik/react-ecommerce">React E-commerce</a> - Ecommerce website made with React, Redux.
-#### <a href="https://github.com/adriankiezik/online-code-editor">Online Code Editor</a> - Code transpiller and bundler created with esbuild. Already working, but there is still a lot of work to make if look like proper code editor. 
 #### <a href="https://github.com/adriankiezik/adriankiezik.pl">Portfolio Website</a> - Personal web development portfolio website showcasing my skills & projects.
+#### <a href="https://github.com/adriankiezik/online-code-editor">Online Code Editor</a> - Code transpiller and bundler created with esbuild. Already working, but there is still a lot of work to make if look like proper code editor. 
