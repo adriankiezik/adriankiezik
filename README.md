@@ -11,9 +11,6 @@ Hello, I am a web developer from Poland, Wrocław. Experienced in Javascript-bas
 <a href="https://adriankiezik.pl">
 <img src="https://img.shields.io/badge/Web%20Dev%20projects-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="web dev" />
 </a>
-<a href="https://github.com/adriankiezik?tab=repositories&q=Spigot&type=&language=&sort=">
-<img src="https://img.shields.io/badge/Spigot%20projects-007396?style=for-the-badge&logo=Java&logoColor=white" alt="spigot" />
-</a>
 <a href="mailto:kiezikadrian@gmail.com">
 <img src="https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="gmail" />
 </a>
