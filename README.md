@@ -3,6 +3,11 @@
 Hello, I am a web developer from Poland, Wrocław. Experienced in Javascript-based programming, especially React and Redux, as well as Node.js & Express. Java is my first language, but for few years I'm exploring the front & back-end of the web. Feel free to contact me!
 
 <div align="center">
+<img src="https://badges.peiyuan.ch/leetcode/adriankiezik/name" alt="nickname" />
+<img src="https://badges.peiyuan.ch/leetcode/adriankiezik/ranking" alt="ranking" />
+</div>
+
+<div align="center">
 <a href="https://adriankiezik.pl">
 <img src="https://img.shields.io/badge/Web%20Dev%20projects-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="web dev" />
 </a>
@@ -20,26 +25,14 @@ Hello, I am a web developer from Poland, Wrocław. Experienced in Javascript-bas
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white" alt="sass" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="java" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-<img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
-<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="mongodb" />
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="node.js" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-<img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" alt="webpack" />
-</div>
-  
-### Learning right now
-<div align="center">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=netlify&logoColor=white" alt="tailwind" />
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="node.js" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="mongodb" />
 </div>
 
 ### The best open source projects
 All of these projects are not completed yet, because I'm still working on daily basis with them. However I ordered them from most to least completed. 
-#### <a href="https://github.com/adriankiezik/react-maps-frontend">React Maps</a> - React application calculating fastest route between two places, calculates estimated price and creates offline navigation for your travel. <a href="https://github.com/adriankiezik/react-maps-backend">Backend repository.</a>
+#### <a href="https://github.com/adriankiezik/react-maps-frontend">React Maps</a> - React application calculating fastest route between two places, calculates estimated price and creates offline navigation for your travel.
 #### <a href="https://github.com/adriankiezik/react-ecommerce">React E-commerce</a> - Ecommerce website made with React, Redux.
 #### <a href="https://github.com/adriankiezik/adriankiezik.pl">Portfolio Website</a> - Personal web development portfolio website showcasing my skills & projects. 
