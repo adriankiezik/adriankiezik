@@ -33,4 +33,3 @@ All of these projects are not completed yet, because I'm still working on daily 
 #### <a href="https://github.com/adriankiezik/react-maps-frontend">React Maps</a> - React application calculating fastest route between two places, calculates estimated price and creates offline navigation for your travel.
 #### <a href="https://github.com/adriankiezik/react-ecommerce">React E-commerce</a> - Ecommerce website made with React, Redux.
 #### <a href="https://github.com/adriankiezik/adriankiezik.pl">Portfolio Website</a> - Personal web development portfolio website showcasing my skills & projects. 
-#### <a href="https://github.com/adriankiezik/leetcode-solutions">Leetcode Solutions</a> - All of my LeetCode problem solutions. 
