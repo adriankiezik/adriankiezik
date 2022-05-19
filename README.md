@@ -29,7 +29,6 @@ Hello, I am a web developer from Poland, Wrocław. Experienced in Javascript-bas
 </div>
 
 ### The best open source projects
-All of these projects are not completed yet, because I'm still working on daily basis with them. However I ordered them from most to least completed. 
 #### <a href="https://github.com/adriankiezik/react-maps-frontend">React Maps</a> - React application calculating fastest route between two places, calculates estimated price and creates offline navigation for your travel.
 #### <a href="https://github.com/adriankiezik/react-ecommerce">React E-commerce</a> - Ecommerce website made with React, Redux.
 #### <a href="https://github.com/adriankiezik/adriankiezik.pl">Portfolio Website</a> - Personal web development portfolio website showcasing my skills & projects. 
