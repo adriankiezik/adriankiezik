@@ -3,11 +3,6 @@
 Hello, I am a web developer from Poland, Wrocław. Experienced in Javascript-based programming, especially React and Redux, as well as Node.js & Express. Java is my first language, but for few years I'm exploring the front & back-end of the web. Feel free to contact me!
 
 <div align="center">
-<img src="https://badges.peiyuan.ch/leetcode/adriankiezik/name" alt="nickname" />
-<img src="https://badges.peiyuan.ch/leetcode/adriankiezik/ranking" alt="ranking" />
-</div>
-
-<div align="center">
 <a href="https://adriankiezik.pl">
 <img src="https://img.shields.io/badge/Web%20Dev%20projects-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="web dev" />
 </a>
