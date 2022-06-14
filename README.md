@@ -5,7 +5,7 @@
 
 ### About me
 
-Hello, I am a web developer from Poland, Wrocław. Experienced in Javascript-based programming, especially React and Redux, as well as Node.js & Express. Java is my first language, but for few years I'm exploring the front & back-end of the web. Feel free to contact me!
+Hello, I am a JavaScript Developer from Poland, Wrocław. Experienced in Javascript-based programming, especially React and Redux, as well as Node.js & Express. Java is my first language, but for few years I'm exploring the front & back-end of the web. Feel free to contact me!
 
 <div align="center">
 <a href="https://adriankiezik.pl">
