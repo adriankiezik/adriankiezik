@@ -1,3 +1,8 @@
+<a href="https://adriankiezik.pl">
+<img src="./github-header.png" alt="github banner" />
+</a>
+
+
 ### About me
 
 Hello, I am a web developer from Poland, Wrocław. Experienced in Javascript-based programming, especially React and Redux, as well as Node.js & Express. Java is my first language, but for few years I'm exploring the front & back-end of the web. Feel free to contact me!
