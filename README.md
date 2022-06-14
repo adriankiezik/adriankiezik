@@ -27,8 +27,3 @@ Hello, I am a JavaScript Developer from Poland, Wrocław. Experienced in Javascr
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
 <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="mongodb" />
 </div>
-
-### The best open source projects
-#### <a href="https://github.com/adriankiezik/react-maps-frontend">React Maps</a> - React application calculating fastest route between two places, calculates estimated price and creates offline navigation for your travel.
-#### <a href="https://github.com/adriankiezik/react-ecommerce">React E-commerce</a> - Ecommerce website made with React, Redux.
-#### <a href="https://github.com/adriankiezik/adriankiezik.pl">Portfolio Website</a> - Personal web development portfolio website showcasing my skills & projects. 
