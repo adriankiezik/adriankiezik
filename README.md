@@ -11,7 +11,7 @@ Hello, I am a JavaScript Developer from Poland, Wrocław. Experienced in Javascr
 <a href="https://adriankiezik.pl">
 <img src="https://img.shields.io/badge/Web%20Dev%20projects-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="web dev" />
 </a>
-<a href="mailto:kiezikadrian@gmail.com">
+<a href="mailto:contact@adriankiezik.pl">
 <img src="https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="gmail" />
 </a>
 </div>
