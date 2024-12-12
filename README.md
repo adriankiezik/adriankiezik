@@ -3,5 +3,5 @@
 </a>
 
 <div align="center">
-Javascript Developer from Poland. Feel free to contact me!
+Feel free to contact me!
 </div>
