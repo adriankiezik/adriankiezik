@@ -12,7 +12,7 @@ Software engineer from Poland. React/TypeScript by day - Rust and graphics tinke
 
 - [vela](https://github.com/adriankiezik/vela) — Minecraft server / protocol-776 reimplementation in Rust
 - [capy](https://github.com/adriankiezik/capy) — voxel engine in Rust: wgpu compute raymarching, DAG-compressed voxel worlds, GTAO, optional DLSS/FSR upscaling
-- [3dengine](https://github.com/adriankiezik/3dengine) — C++ OpenGL engine with Lua scripting
+- [3dengine](https://github.com/adriankiezik/3dengine) — C++ OpenGL engine with Lua scripting, mostly a learning project
 
 ## Open source
 
