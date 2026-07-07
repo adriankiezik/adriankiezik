@@ -16,6 +16,6 @@ Software engineer from Katowice, Poland. Enterprise React/TypeScript by day, Rus
 - [voxel_renderer](https://github.com/adriankiezik/voxel_renderer) — Rust wgpu raymarching voxel renderer
 - [online-code-editor](https://github.com/adriankiezik/online-code-editor) — in-browser code editor bundling with esbuild-wasm
 
-Also: Node.js, Java.
+Day-to-day stack: React, TypeScript, Node.js — with Rust, C++ and Java on personal projects.
 
 [Website](https://adriankiezik.dev) · [LinkedIn](https://www.linkedin.com/in/adriankiezik) · [CurseForge](https://www.curseforge.com/members/056/projects)
