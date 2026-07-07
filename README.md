@@ -3,6 +3,7 @@
 Software engineer from Poland. React/TypeScript by day - Rust and graphics tinkering by night.
 
 ## Some of my mods
+Mostly very small projects made for fun
 
 - [Sit](https://www.curseforge.com/members/056/projects) — Hytale mod, 2.3K downloads
 - [Emotes](https://www.curseforge.com/members/056/projects) — Hytale mod with an emote radial wheel, 5.5K downloads
@@ -18,6 +19,6 @@ Software engineer from Poland. React/TypeScript by day - Rust and graphics tinke
 
 - Contributed to the [Ladybird browser](https://github.com/LadybirdBrowser/ladybird) — a contribution I'm proud of, credited in their [October 2025 newsletter](https://ladybird.org/newsletter/2025-10-31/)
 
-Day-to-day stack: React, TypeScript, Node.js — with Rust, C++ and Java on personal projects.
+React, TypeScript, Node.js — with Rust, C++ and Java on personal projects.
 
 [Website](https://adriankiezik.dev) · [LinkedIn](https://www.linkedin.com/in/adriankiezik) · [CurseForge](https://www.curseforge.com/members/056/projects)
