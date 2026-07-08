@@ -9,11 +9,11 @@ Software engineer from Poland. React/TypeScript by day - Rust and graphics tinke
 - [3dengine](https://github.com/adriankiezik/3dengine) — C++ OpenGL engine with Lua scripting, mostly a learning project
 
 ## Some of my mods
-Mostly very small projects made for fun
+Mostly very small projects made for fun — though a few of them gathered quite a lot of downloads
 
-- [Sit](https://www.curseforge.com/members/056/projects) — Hytale mod, 2.3K downloads
-- [Emotes](https://www.curseforge.com/members/056/projects) — Hytale mod with an emote radial wheel, 5.5K downloads
-- [SillyCompany](https://thunderstore.io/c/lethal-company/p/silly_capybara/SillyCompany/) — Lethal Company mod, 6.7K downloads
+- [Sit](https://www.curseforge.com/members/056/projects) — Hytale mod
+- [Emotes](https://www.curseforge.com/members/056/projects) — Hytale mod with an emote radial wheel
+- [SillyCompany](https://thunderstore.io/c/lethal-company/p/silly_capybara/SillyCompany/) — Lethal Company mod
 
 ## Open source
 
