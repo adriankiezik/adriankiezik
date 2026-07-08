@@ -1,6 +1,6 @@
 # Adrian Kiezik
 
-Software engineer from Poland. React/TypeScript/Rust
+Software engineer from Poland. React · TypeScript · Rust, with C++ and Java on personal projects
 
 ## Projects
 
@@ -18,7 +18,5 @@ Mostly very small projects made for fun — though a few of them gathered quite 
 ## Open source
 
 - Contributed to the [Ladybird browser](https://github.com/LadybirdBrowser/ladybird) — a contribution I'm proud of, credited in their [October 2025 newsletter](https://ladybird.org/newsletter/2025-10-31/)
-
-React, TypeScript, Node.js — with Rust, C++ and Java on personal projects.
 
 [Website](https://adriankiezik.dev) · [LinkedIn](https://www.linkedin.com/in/adriankiezik) · [CurseForge](https://www.curseforge.com/members/056/projects)
