@@ -1,6 +1,6 @@
 # Adrian Kiezik
 
-Software engineer from Poland. React/TypeScript by day - Rust and graphics tinkering by night.
+Software engineer from Poland. React/TypeScript/Rust
 
 ## Projects
 
